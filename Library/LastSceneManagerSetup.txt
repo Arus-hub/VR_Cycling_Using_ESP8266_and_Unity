@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/bike/yahi try ho jaye.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
