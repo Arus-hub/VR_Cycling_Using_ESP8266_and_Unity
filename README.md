@@ -2,6 +2,9 @@
 
 By Aradhya Talawar
 
+## Testing of the fitness game
+https://youtu.be/WDciMWy8f8w
+
 ## Installation
 ### Hardware Requirements:
 * Potentiometer
