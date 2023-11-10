@@ -56,14 +56,18 @@ The two main sensors used are:
 After the sensors gather data, the ESP8266 module transmits this information to the Unity-based game using UDP (User Datagram Protocol).
 The NodeMCU sends data through UDP packets, which the game then receives and translates into meaningful inputs for the virtual cycling experience.
 
-##### Architecture
+#### Architecture
 ![Screenshot](Img/Architecture.png)
 
 ## Final Assembly
 
 ### Building the VR Game for Android Smartphones:
 The last step involves compiling and building the VR game for use on Android smartphones. Unity simplifies this process, allowing for straightforward compilation and deployment of the VR application to a mobile platform.
+
+#### Screenshot of game being tested
 ![Screenshot](Img/vr%20test%20app.jpg)
+
+#### Screenshot of game working proverly.
 ![Screenshot](Img/implemented%20game.jfif)
 
 This comprehensive approach to project implementation combines innovative software solutions with practical hardware integrations, leading to an immersive VR cycling experience. If there are more specific aspects of the implementation you'd like to know about, feel free to ask!
