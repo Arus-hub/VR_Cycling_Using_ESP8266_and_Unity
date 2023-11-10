@@ -27,6 +27,7 @@ A game was created in Unity, a popular game engine, and a virtual bicycle (Game 
 
 A virtual terrain or map was designed in Unity, providing a simulated landscape for cycling activities.
 Scripting in C#:
+![Screenshot](ImgUp/Full.png)
 
 C# scripts were attached to the virtual bicycle in Unity. These scripts define the bicycle's functionalities, such as its movement on the terrain and control mechanisms.
 
